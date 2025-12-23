@@ -20,7 +20,7 @@ USER MANUAL:
 Allows the user to enter:
 Patient Name
 Patient Age
-Severity level (1–50)
+Severity level betweem 1 to 50
 The patient is inserted into the queue automatically at the correct position based on priority
  Option 2:Display Queue
 Displays the current patient queue in a formatted table showing:
